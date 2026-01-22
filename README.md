@@ -14,8 +14,8 @@ Interested in backend development, database systems, and building secure, functi
 - System Design & Basic Security Concepts  
 - Version Control (Git & GitHub)  
 - Problem Solving & Debugging  
-- Cybersecurity Tools & Utilities: Kali Linux, Wireshark, Burp Suite (basic), Metasploit (intro), Nmap  
-- Development Tools: XAMPP, VS Code, Postman, Linux (Ubuntu), PowerShell  
+- Cybersecurity Tools & Utilities: Kali Linux, Wireshark, Nmap  
+- Development Tools: XAMPP, VS Code, Linux (Ubuntu), PowerShell  
 
 ---
 
