@@ -30,8 +30,8 @@ Interested in backend development, database systems, and building secure, functi
 ---
 
 ## 📫 Contact Me
-- **GitHub:** https://github.com/yourusername  
-- **Email:** yourname@gmail.com  
+- **GitHub:** https://github.com/webdevyyannah 
+- **Email:** dianahmyra04@gmail.com  
 
 ---
 
