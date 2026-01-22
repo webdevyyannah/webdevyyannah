@@ -5,27 +5,33 @@ Interested in backend development, database systems, and building secure, functi
 ---
 
 ## 🛠️ Skills & Learnings
-- **Programming Languages:** HTML, CSS, JavaScript, PHP  
-- **Databases:** MySQL  
-- **Web Development:** Frontend & Backend  
-- **Form Validation & Authentication Systems**  
-- **System Design & Basic Security Concepts**  
-- **Problem Solving & Debugging**  
+- Programming Languages: HTML, CSS, JavaScript, PHP  
+- Databases: MySQL  
+- Web Development (Frontend & Backend)  
+- Form Validation & Authentication Systems  
+- Secure Coding Practices & Basic Web Security (XSS, SQL Injection, CSRF awareness)  
+- Session Management & Access Control  
+- System Design & Basic Security Concepts  
+- Version Control (Git & GitHub)  
+- Problem Solving & Debugging  
+- Cybersecurity Tools & Utilities: Kali Linux, Wireshark, Burp Suite (basic), Metasploit (intro), Nmap  
+- Development Tools: XAMPP, VS Code, Postman, Linux (Ubuntu), PowerShell  
 
 ---
 
 ## 🎯 Interests
 - Backend Development  
 - Web Application Development  
+- Cybersecurity & Web Application Security  
 - Database Systems & Management  
-- System Security  
+- Secure System Design  
 - Learning New Technologies  
 
 ---
 
 ## 📫 Contact Me
-- **GitHub:** [https://github.com/webdevyyannah](Github)  
-- **Email:** dianahmyra04@gmail.com  
+- **GitHub:** https://github.com/yourusername  
+- **Email:** yourname@gmail.com  
 
 ---
 
