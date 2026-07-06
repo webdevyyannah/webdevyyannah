@@ -1,5 +1,5 @@
 ## 💫 About Me
-IT Graduate | Web Developer and Cybersecurity in progress  
+IT Graduate | Web Developer and Cybersecurity and Data Analyst in progress  
 Interested in backend development, database systems, and building secure, functional web applications using different programming languages. Passionate about learning, improving coding skills, and turning ideas into working systems.
 
 ---
